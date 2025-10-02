@@ -19,10 +19,10 @@
 
 > **Research-Driven Engineer** | **Cloud & Security Enthusiast** | **Continuous Learner**
 
-- 🎓 Currently pursuing **Bachelor's degrees in Computer Science and Engineering (CSE)**  
-- ☁️ Skilled in **Vibe Coding & System Thinker**  
-- 🔐 Interested in **Data Science & Cloud Computing**  
-- 🛠️ Passionate about building **combining academic research with real-world practice**   
+- 🎓 Currently pursuing **Bachelor's degrees in Computer Science and Engineering (CSE)**
+- ☁️ Skilled in **Vibe Coding & System Thinker**
+- 🔐 Interested in **Data Science & Cloud Computing**
+- 🛠️ Passionate about building **combining academic research with real-world practice**
 
 ---
 
@@ -31,6 +31,7 @@
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
+
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -38,11 +39,13 @@
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### 🔐 Security
+
 ![Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
 
 ### 💻 Development & Automation
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -66,11 +69,11 @@
 
 ## 🚀 **Featured Projects**
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🔐 Lockerspace | Social Media Dating Apps for Malaysian-Korean Student's Society | Azure, KQL, Power BI | 🚀 Active |
-| ☁️ Chromesthesia Chord Engine | ML-based System that transforms musical chords into colors | Python | ✅ Complete |
-| 🤖 AI Threat Detection | ML-based anomaly detection for cloud logs | Python, TensorFlow | 🔬 Research |
+| Project                        | Description                                                     | Tech Stack           | Status      |
+| ------------------------------ | --------------------------------------------------------------- | -------------------- | ----------- |
+| 🔐 Lockerspace                 | Social Media Dating Apps for Malaysian-Korean Student's Society | Azure, KQL, Power BI | 🚀 Active   |
+| 🎹 Chromesthesia Chord Engine | ML-based System that transforms musical chords into visuals     | Python               | ✅ Complete |
+| 🤖 AI Threat Detection         | ML-based anomaly detection for cloud logs                       | Python, TensorFlow   | 🔬 Research |
 
 ---
 
@@ -83,6 +86,4 @@
 
 ---
 
-⭐ **Star this repo if you like my profile!**  
-
-
+⭐ **Star this repo if you like my profile!**
