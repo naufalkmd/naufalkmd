@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/naufalkmd/naufalkmd/main/assets/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/naufalkmd/naufalkmd/main/Assets/coding.gif">
 
 ## 🎯 **About Me**
 
