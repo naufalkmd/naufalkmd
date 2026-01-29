@@ -14,6 +14,7 @@
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/naufalkmd/naufalkmd/main/Assets/coding.gif">
+
 ## 🎯 About Me
 
 > **Systems-Oriented Frontend Engineer** | **Technical Art Enthusiast** | **Research-Driven Builder**
@@ -88,7 +89,7 @@
 | Project                        | Description                                                     | Tech Stack           | Status      |
 | ------------------------------ | --------------------------------------------------------------- | -------------------- | ----------- |
 | 🔐 Lockerspace                 | Social Media Dating Apps for Malaysian-Korean Student's Society | Azure, KQL, Power BI | 🚀 Active   |
-| 🔀Anyfile Converter              | Command-line tool that converts documents, and bridges AI assistants' inability to inspect binary files | Python Powershell | ✅ Complete   |
+| 🔀 Anyfile Converter              | Command-line tool that converts documents, and bridges AI assistants' inability to inspect binary files | Python, Powershell | ✅ Complete   |
 | 🎹 Chromesthesia Chord Engine | ML-based System that transforms musical chords into visuals     | Python               | ✅ Complete |
 | 🤖 AI Threat Detection         | ML-based anomaly detection for cloud logs                       | Python, TensorFlow   | 🔬 Research |
 
