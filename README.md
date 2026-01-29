@@ -31,14 +31,27 @@
 
 <div align="center">
 
-### 💻 Frontend & Creative Development
+### 🎨 Creative & Art
+
+![Blender](https://img.shields.io/badge/Blender-FF7F00?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FF2C2C?style=for-the-badge&logo=Figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-FFD802?style=for-the-badge&logo=unity&logoColor=black)
+
+---
+
+### 💻 Frontend & Development
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Babylon.js](https://img.shields.io/badge/Babylon.js-E0684B?style=for-the-badge&logo=babylondotjs&logoColor=white)
+![A-frame.js](https://img.shields.io/badge/A%20frame.js-EF2D5E?style=for-the-badge&logo=aframe&logoColor=white)
 
 ---
 
