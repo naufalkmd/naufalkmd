@@ -110,10 +110,6 @@
 
 ## 🎓 **Certifications & Education**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-Azure%20Certified-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-Research-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-</p>
 
 ---
 
