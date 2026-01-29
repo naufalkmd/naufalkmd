@@ -14,21 +14,40 @@
 ---
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/naufalkmd/naufalkmd/main/Assets/coding.gif">
+## 🎯 About Me
 
-## 🎯 **About Me**
+> **Systems-Oriented Frontend Engineer** | **Technical Art Enthusiast** | **Research-Driven Builder**
 
-> **Research-Driven Engineer** | **Cloud & Security Enthusiast** | **Continuous Learner**
-
-- 🎓 Currently pursuing **Bachelor's degrees in Computer Science and Engineering (CSE)**
-- ☁️ Skilled in **Vibe Coding & System Thinker**
-- 🔐 Interested in **Data Science & Cloud Computing**
-- 🛠️ Passionate about building **combining academic research with real-world practice**
+- 🎓 Pursuing a **Bachelor’s degree in Computer Science & Engineering (CSE)**
+- 🧠 Strong **systems thinker** with an interest in how logic, visuals, and interaction meet
+- 🎨 Exploring **Technical Art**, **3D Web**, and **creative frontend engineering**
+- 🔬 Passionate about bridging **academic research** with **real-world, user-facing products**
+- 🚀 Focused on building interfaces that are **performant, expressive, and intentional**
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 <div align="center">
+
+### 💻 Frontend & Creative Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+
+---
+
+### ⚙️ Programming & Automation
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
 
 ### ☁️ Cloud & Infrastructure
 
@@ -38,21 +57,18 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
 
-### 🔐 Security
+---
 
-![Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+### 🔐 Security & Reliability
+
+![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure Sentinel](https://img.shields.io/badge/Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-FF6B6B?style=for-the-badge&logo=shield&logoColor=white)
-
-### 💻 Development & Automation
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
 
 ---
+
 
 ## 📊 **GitHub Analytics**
 
@@ -72,7 +88,7 @@
 | Project                        | Description                                                     | Tech Stack           | Status      |
 | ------------------------------ | --------------------------------------------------------------- | -------------------- | ----------- |
 | 🔐 Lockerspace                 | Social Media Dating Apps for Malaysian-Korean Student's Society | Azure, KQL, Power BI | 🚀 Active   |
-| Anyfile Converter              | Command-line tool that converts documents, and bridges AI assistants' inability to inspect binary files | ✅ Complete   |
+| 🔀Anyfile Converter              | Command-line tool that converts documents, and bridges AI assistants' inability to inspect binary files | Python Powershell | ✅ Complete   |
 | 🎹 Chromesthesia Chord Engine | ML-based System that transforms musical chords into visuals     | Python               | ✅ Complete |
 | 🤖 AI Threat Detection         | ML-based anomaly detection for cloud logs                       | Python, TensorFlow   | 🔬 Research |
 
