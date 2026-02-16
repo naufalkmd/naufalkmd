@@ -20,10 +20,9 @@
 > **Systems-Oriented Frontend Engineer** | **Technical Art Enthusiast** | **Research-Driven Builder**
 
 - 🎓 Pursuing a **Bachelor’s degree in Computer Science & Engineering (CSE)**
-- 🧠 Strong **systems thinker** with an interest in how logic, visuals, and interaction meet
-- 🎨 Exploring **Technical Art**, **3D Web**, and **creative frontend engineering**
-- 🔬 Passionate about bridging **academic research** with **real-world, user-facing products**
-- 🚀 Focused on building interfaces that are **performant, expressive, and intentional**
+- 🧠 Strong **systems thinker** with an interest in how logic, visuals, and productivity meet
+- 🎨 Exploring **Technical Art**, **Automation**, **Cloud Computing**, **3D Web**, and **Creative frontend engineering**
+- 🚀 Focused on building tools that are **sustainable and open source approach**
 
 ---
 
@@ -65,8 +64,8 @@
 
 ### ☁️ Cloud & Infrastructure
 
-![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D30428?style=for-the-badge&logo=Hetzner&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-5C4EE5?style=for-the-badge&logo=terraform&logoColor=white)
@@ -86,10 +85,6 @@
 
 ## 📊 **GitHub Analytics**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naufalkmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufalkmd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalkmd&theme=dark&hide_border=false" alt="GitHub Streak"/>
