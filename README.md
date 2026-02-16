@@ -99,17 +99,19 @@
 
 ## 🚀 **Featured Projects**
 
-| Project                        | Description                                                     | Tech Stack           | Status      |
-| ------------------------------ | --------------------------------------------------------------- | -------------------- | ----------- |
-| 🔐 Lockerspace                 | Social Media Dating Apps for Malaysian-Korean Student's Society | Azure, KQL, Power BI | 🚀 Active   |
-| 🔀 Anyfile Converter              | Command-line tool that converts documents, and bridges AI assistants' inability to inspect binary files | Python, Powershell | ✅ Complete   |
-| 🎹 Chromesthesia Chord Engine | ML-based System that transforms musical chords into visuals     | Python               | ✅ Complete |
-| 🤖 AI Threat Detection         | ML-based anomaly detection for cloud logs                       | Python, TensorFlow   | 🔬 Research |
-     PharmaGPT
-     Noteerr
-     Terminal Ninja
-     Blender MCP
----
+| Project                        | Description                                                                 | Tech Stack                              | Status        |
+|--------------------------------|-----------------------------------------------------------------------------|------------------------------------------|--------------|
+| 🔐 Lockerspace                 | Social media dating app for Malaysian-Korean student society              | Azure, KQL, Power BI                     | 🚀 Active     |
+| 🔀 Anyfile Converter           | CLI tool that converts documents and bridges AI assistants' binary limits | Python, PowerShell                       | ✅ Complete   |
+| 🎹 Chromesthesia Chord Engine  | ML system that transforms musical chords into generative visuals           | Python, Librosa, ML                      | ✅ Complete   |
+| 🤖 AI Threat Detection         | ML-based anomaly detection for cloud log intelligence                      | Python, TensorFlow, Azure Logs           | 🔬 Research   |
+| 💊 PharmaGPT                   | Domain-specialized LLM assistant for pharmaceutical knowledge & safety     | Python, HuggingFace, RAG, FastAPI        | 🧪 Prototype  |
+| 📝 Noteerr                     | Minimal developer-focused markdown note system with structured thinking    | Next.js, TypeScript, Supabase            | 🏗️ Building   |
+| 🥷 Terminal Ninja              | AI-powered CLI productivity enhancer with intelligent command suggestions  | Python, Bash, OpenAI API                 | 🧠 Concept    |
+| 🧠 BlendPilot                  | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building   |
+| 🧰 TinyToys                    | Modular developer utility suite allowing custom scripts, mini-apps, widgets, and productivity toggles | Rust / Python / Plugin Runtime          | 🧠 Concept    |
+| 🖥 TinyToys: RustDesk Display Toggle    | Toggle for changing different server display settings for RustDesk remote setup  | RustDesk API, Python, Tailscale          | 🧪 Prototype  |
+
 
 ## 🎓 **Certifications & Education**
 
