@@ -106,6 +106,8 @@
 | 🧠 BlendPilot                  | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building   |
 | 🧰 TinyToys                    | Modular developer utility suite allowing custom scripts, mini-apps, widgets, and productivity toggles | Rust / Python / Plugin Runtime          | 🧠 Concept    |
 | 🖥 TinyToys: RustDesk Display Toggle    | Toggle for changing different server display settings for RustDesk remote setup  | RustDesk API, Python, Tailscale          | 🧪 Prototype  |
+| 📸 Lua .fxlm | Darktable Lua-based preset system that allows photographers to easily apply cinematic, film-inspired looks to their photos and import through .fxlm file  | Lua, Luts, C, C++, Python | 🏗️ Building  |
+
 
 
 ## 🎓 **Certifications & Education**
