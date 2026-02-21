@@ -17,12 +17,11 @@
 
 ## 🎯 About Me
 
-> **Systems-Oriented Frontend Engineer** | **Technical Art Enthusiast** | **Research-Driven Builder**
+> **High Curiosity and Rapid Idea Thinker** | **Technical Art Enthusiast** | **Research-Driven Builder**
 
 - 🎓 Pursuing a **Bachelor’s degree in Computer Science & Engineering (CSE)**
-- 🧠 Strong **systems thinker** with an interest in how logic, visuals, and productivity meet
-- 🎨 Exploring **Technical Art**, **Automation**, **Cloud Computing**, **3D Web**, and **Creative frontend engineering**
-- 🚀 Focused on building tools that are **sustainable and open source approach**
+- 🧠 Driven to apply **open-source** principles wherever possible, fostering **transparency** and **collaboration**, aiming to push technology toward **continuous**, **sustainable** and **limitless** improvement 
+- 🎨 Exploring **Technical Art**, **Automation**, **Fine-tune LLM**, **Cloud Computing**, **3D Web**, and **Creative Frontend**
 
 ---
 
