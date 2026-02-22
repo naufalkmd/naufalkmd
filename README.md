@@ -95,16 +95,16 @@
 
 | Project                        | Description                                                                 | Tech Stack                              | Status        |
 |--------------------------------|-----------------------------------------------------------------------------|------------------------------------------|--------------|
-| 🔐 Lockerspace                 | Social media dating app for Malaysian-Korean student society              | Azure, KQL, Power BI                     | 🚀 Active     |
+| 🔐 Lockerspace                 | Social media dating app for Malaysian-Korean student society              | Azure, KQL, Power BI                     | 🏗️ Building     |
 | 🔀 Anyfile Converter           | CLI tool that converts documents and bridges AI assistants' binary limits | Python, PowerShell                       | ✅ Complete   |
 | 🎹 Chromesthesia Chord Engine  | ML system that transforms musical chords into generative visuals           | Python, Librosa, ML                      | ✅ Complete   |
 | 🤖 AI Threat Detection         | ML-based anomaly detection for cloud log intelligence                      | Python, TensorFlow, Azure Logs           | 🔬 Research   |
-| 💊 PharmaGPT                   | Domain-specialized LLM assistant for pharmaceutical knowledge & safety     | Python, HuggingFace, RAG, FastAPI        | 🧪 Prototype  |
+| 💊 PharmaGPT                   | Domain-specialized LLM assistant for pharmaceutical knowledge & safety     | Python, HuggingFace, RAG, FastAPI        | 🔬 Research  |
 | 📝 Noteerr                     | Minimal developer-focused markdown note system with structured thinking    | Next.js, TypeScript, Supabase            | 🏗️ Building   |
-| 🥷 Terminal Ninja              | AI-powered CLI productivity enhancer with intelligent command suggestions  | Python, Bash, OpenAI API                 | 🧠 Concept    |
+| 🥷 Terminal Ninja              | AI-powered CLI productivity enhancer with intelligent command suggestions  | Python, Bash, OpenAI API                 | 🔬 Research    |
 | 🧠 BlendPilot                  | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building   |
 | 🧰 TinyToys                    | Modular developer utility suite allowing custom scripts, mini-apps, widgets, and productivity toggles | Rust / Python / Plugin Runtime          | 🧠 Concept    |
-| 🖥 TinyToys: RustDesk Display Toggle    | Toggle for changing different server display settings for RustDesk remote setup  | RustDesk API, Python, Tailscale          | 🧪 Prototype  |
+| 🖥 RustDesk Display Helper    | Toggle for changing different server display settings for RustDesk remote setup  | RustDesk API, Python, Tailscale          | ✅ Complete   |
 | 📸 Lua .fxlm | Darktable Lua-based preset system that allows photographers to easily apply cinematic, film-inspired looks to their photos and import through .fxlm file  | Lua, Luts, C, C++, Python | 🏗️ Building  |
 
 
