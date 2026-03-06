@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./Assets/github-painter-banner.svg" alt="GitHub Painter banner" width="100%"/>
+
 # 💫 Hi there! I'm Naufal 🛠️
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Korea+University+%7C+Undergraduate;Research+%26+Innovation+Driven;Transforming+Ideas+into+Solutions)](https://github.com/naufalkmd)
