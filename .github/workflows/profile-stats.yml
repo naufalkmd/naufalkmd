@@ -1,0 +1,33 @@
+name: Generate Profile Stats Card
+
+on:
+  schedule:
+    - cron: "20 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile stats card
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile-metrics/userstats.svg
+          include-title: true
+          small-title: true
+          custom-title: Naufal's GitHub Activity
+          colors: dark
+          max-languages: 7
+          animated-language-chart: true
+          category-order: contributions, repositories, languages
+          hide-keys: general, watchedBy, templates, archived
+          commit-message: "chore: update profile stats card"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

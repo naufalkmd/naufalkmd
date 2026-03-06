@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">Profile stats placeholder</title>
+  <desc id="desc">Placeholder image until the GitHub Actions workflow generates the real profile stats card.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <rect x="30" y="30" width="1140" height="360" rx="22" fill="#161b22" stroke="#30363d"/>
+  <text x="70" y="92" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">
+    Naufal's GitHub Activity
+  </text>
+  <text x="70" y="132" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="19">
+    This placeholder keeps the README clean before the first scheduled stats build.
+  </text>
+  <text x="70" y="164" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="19">
+    Run the "Generate Profile Stats Card" workflow to replace it with live data.
+  </text>
+  <rect x="70" y="210" width="320" height="120" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="430" y="210" width="320" height="120" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x="790" y="210" width="320" height="120" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <text x="100" y="250" fill="#3fb950" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    Contributions
+  </text>
+  <text x="100" y="290" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    Live yearly totals
+  </text>
+  <text x="460" y="250" fill="#3fb950" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    Repositories
+  </text>
+  <text x="460" y="290" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    Stars, forks, public repos
+  </text>
+  <text x="820" y="250" fill="#3fb950" font-family="Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+    Languages
+  </text>
+  <text x="820" y="290" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+    Animated language chart
+  </text>
+</svg>

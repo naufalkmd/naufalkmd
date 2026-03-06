@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">3D contribution graph placeholder</title>
+  <desc id="desc">Placeholder image until the GitHub Actions workflow generates the real 3D contribution graph.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0f1720"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect x="30" y="30" width="1140" height="280" rx="22" fill="url(#panel)" stroke="#30363d"/>
+  <g fill="#2ea043">
+    <rect x="110" y="200" width="28" height="50" rx="6"/>
+    <rect x="150" y="170" width="28" height="80" rx="6"/>
+    <rect x="190" y="140" width="28" height="110" rx="6"/>
+    <rect x="230" y="110" width="28" height="140" rx="6"/>
+    <rect x="270" y="190" width="28" height="60" rx="6"/>
+    <rect x="560" y="180" width="28" height="70" rx="6"/>
+    <rect x="600" y="130" width="28" height="120" rx="6"/>
+    <rect x="640" y="90" width="28" height="160" rx="6"/>
+    <rect x="680" y="150" width="28" height="100" rx="6"/>
+    <rect x="930" y="205" width="28" height="45" rx="6"/>
+    <rect x="970" y="165" width="28" height="85" rx="6"/>
+    <rect x="1010" y="125" width="28" height="125" rx="6"/>
+  </g>
+  <text x="80" y="96" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">
+    3D Contribution Graph
+  </text>
+  <text x="80" y="136" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+    Placeholder asset committed so the README renders immediately.
+  </text>
+  <text x="80" y="168" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="20">
+    Run the "Generate 3D Contribution Graph" workflow once to replace this file.
+  </text>
+</svg>
