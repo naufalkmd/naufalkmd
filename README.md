@@ -106,6 +106,9 @@
 | 🧰 TinyToys                    | Modular developer utility suite allowing custom scripts, mini-apps, widgets, and productivity toggles | Rust / Python / Plugin Runtime          | 🧠 Concept    |
 | 🖥 RustDesk Display Helper    | Toggle for changing different server display settings for RustDesk remote setup  | RustDesk API, Python, Tailscale          | ✅ Complete   |
 | 📸 Lua .fxlm | Darktable Lua-based preset system that allows photographers to easily apply cinematic, film-inspired looks to their photos and import through .fxlm file  | Lua, Luts, C, C++, Python | 🏗️ Building  |
+| 📱 UI First | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first, non-coder-friendly workflow in VSCode.  | Tailwind, API, Penpot | 🏗️ Building  |
+| 🐝 HiveCube EX-01 | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research |
+
 
 
 
