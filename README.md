@@ -134,5 +134,14 @@ Bachelor of Computer Science & Engineering (CSE)
 
 ---
 
+## 🌱 Current Focus
+
+- Building AI-assisted creative tools
+- Designing systems that bridge artists and engineers
+- Exploring open-source, transparent, and scalable workflows
+- Researching practical human-AI collaboration
+
+---
+
 ⭐ **Star this repo if you like my profile!**
 💡 *Always exploring the space between AI, art, and engineering.*
