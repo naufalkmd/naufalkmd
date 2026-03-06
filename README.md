@@ -35,9 +35,9 @@
 ![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?style=for-the-badge&logo=affinitystudio&logoColor=black)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF2C2C?style=for-the-badge&logo=Figma&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)
-![darktable](https://img.shields.io/badge/darktable-1e1e1e?style=for-the-badge&logo=https://raw.githubusercontent.com/naufalkmd/naufalkmd/main/images/darktable.svg&logoColor=00bfff)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=unity&logoColor=white)
+![Penpot](https://img.shields.io/badge/Penpot-FF6B35?style=for-the-badge&logo=penpot&logoColor=white)
+![darktable](https://custom-icon-badges.demolab.com/badge/darktable-00BFFF?style=for-the-badge&logo=darktable&logoColor=white)
 
 
 ---
