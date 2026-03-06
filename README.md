@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge&color=blue&labelColor=black)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/naufal-kamaruddin-67b1171b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/naufal-kamaruddin-67b1171b0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnaufalkamaruddin@gmail.com)
 
 </div>
@@ -29,14 +29,16 @@
 
 <div align="center">
 
-### 🎨 Creative & Art
+### 🎨 Creative & 3d
 
 ![Blender](https://img.shields.io/badge/Blender-FF7F00?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
+![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?style=for-the-badge&logo=affinitystudio&logoColor=black)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF2C2C?style=for-the-badge&logo=Figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-FFD802?style=for-the-badge&logo=unity&logoColor=black)
+![Penpot](https://img.shields.io/badge/Penpot-000000?style=for-the-badge&logo=penpot&logoColor=white)
+![darktable](https://img.shields.io/badge/darktable-1e1e1e?style=for-the-badge&logo=https://raw.githubusercontent.com/naufalkmd/naufalkmd/main/images/darktable.svg&logoColor=00bfff)
+
 
 ---
 
