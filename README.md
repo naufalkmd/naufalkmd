@@ -99,14 +99,12 @@
 </p>
 
 <p align="center">
-  <img src="./profile-metrics/userstats.svg" alt="GitHub activity summary" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalkmd&theme=dark&hide_border=true&background=00000000&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub Streak"/>
 </p>
 
-> Want the live contribution calendar itself to spell text or shapes like GitHub Painter? That effect is separate from `README.md` and requires real dated commits on your actual GitHub contribution graph.
+<p align="center">
+  <sub>Generated with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></sub>
+</p>
 
 ---
 
