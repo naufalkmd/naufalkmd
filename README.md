@@ -98,14 +98,6 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naufalkmd&theme=dark&hide_border=true&background=00000000&ring=3FB950&fire=3FB950&currStreakLabel=3FB950" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <sub>Generated with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">github-profile-3d-contrib</a></sub>
-</p>
-
 ---
 
 ## 🚀 Featured Projects
