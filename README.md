@@ -2,7 +2,7 @@
 
 # 💫 Hi there! I am 🛠️
 
-<img src="https://raw.githubusercontent.com/naufalkmd/calender-svgpainter/main/Assets/github-painter-banner.svg" alt="GitHub Painter banner" width="100%"/>
+<img src="https://raw.githubusercontent.com/naufalkmd/calender-svgpainter/main/Assets/github-painter-banner.gif" alt="GitHub Painter banner" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Korea+University+%7C+Undergraduate;Research+%26+Innovation+Driven;Transforming+Ideas+into+Solutions)](https://github.com/naufalkmd)
 
@@ -131,15 +131,6 @@
 
 **Korea University**
 Bachelor of Computer Science & Engineering (CSE)
-
----
-
-## 🌱 Current Focus
-
-- Building AI-assisted creative tools
-- Designing systems that bridge artists and engineers
-- Exploring open-source, transparent, and scalable workflows
-- Researching practical human-AI collaboration
 
 ---
 
