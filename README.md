@@ -29,16 +29,6 @@
 
 ---
 
-## 🧠 Research Interests
-
-- Generative AI for creative tools
-- Technical art pipelines and automation
-- Human-AI co-creation systems
-- Open-source AI infrastructure
-- AI-assisted 3D modeling and workflow design
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 🎨 Creative & Graphics
@@ -134,12 +124,13 @@ Bachelor of Computer Science & Engineering (CSE)
 
 ---
 
-## 🌱 Current Focus
+## 🧠 Research Interests
 
-- Building AI-assisted creative tools
-- Designing systems that bridge artists and engineers
-- Exploring open-source, transparent, and scalable workflows
-- Researching practical human-AI collaboration
+- Generative AI for creative tools
+- Technical art pipelines and automation
+- Human-AI co-creation systems
+- Open-source AI infrastructure
+- AI-assisted 3D modeling and workflow design
 
 ---
 
