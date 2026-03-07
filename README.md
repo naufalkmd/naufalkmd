@@ -137,4 +137,3 @@ Bachelor of Computer Science & Engineering (CSE)
 ---
 
 ⭐ **Star this repo if you like my profile!**
-💡 *Always exploring the space between AI, art, and engineering.*
