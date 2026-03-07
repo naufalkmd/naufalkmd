@@ -21,7 +21,7 @@
 
 > **High Curiosity and Rapid Idea Thinker** | **Technical Art Enthusiast** | **Research-Driven Builder**
 
-- 🎓 Pursuing a **Bachelor’s degree in Computer Science & Engineering (CSE)**
+- 🎓 Pursuing a **Bachelor’s degree in Computer Science & Engineering (CSE) at Korea University**
 - 🧠 Driven to apply **open-source** principles wherever possible, fostering **transparency** and **collaboration**, while pushing technology toward **continuous**, **sustainable**, and **limitless** improvement
 - 🎨 Exploring **Technical Art**, **Automation**, **Fine-tuned LLMs**, **Cloud Computing**, **3D Web**, and **Creative Frontend**
 
