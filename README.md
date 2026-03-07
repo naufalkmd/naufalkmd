@@ -103,7 +103,7 @@
 
 | Project                       | Description                                                                                                       | Tech Stack                                                        | Status        |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------- |
-| 🔐 Lockerspace                | Social media dating app for Malaysian-Korean student society                                                      | Azure, KQL, Power BI                                              | 🏗️ Building |
+| 🔐 Lockerspace                | Social media dating app for Malaysian-Korean student society                                                      | Tailwind, JavaScript, Supabase                                    | 🏗️ Building |
 | 🔀 Anyfile Converter          | CLI tool that converts documents and bridges AI assistants' binary limits                                         | Python, PowerShell                                                | ✅ Complete   |
 | 🎹 Chromesthesia Chord Engine | ML system that transforms musical chords into generative visuals                                                  | Python, Librosa, ML                                               | ✅ Complete   |
 | 🤖 AI Threat Detection        | ML-based anomaly detection for cloud log intelligence                                                             | Python, TensorFlow, Azure Logs                                    | 🔬 Research   |
