@@ -31,19 +31,28 @@
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img
-    alt="LEGO tech stack"
-    src="https://raw.githubusercontent.com/naufalkmd/lego-techstack/main/output/lego-techstack.png"
-  />
-</p>
-<p align="center">
-  <sub>
-    <a href="https://raw.githubusercontent.com/naufalkmd/lego-techstack/main/output/lego-techstack-disassemble.gif">
-      View animation
-    </a>
-  </sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        alt="LEGO tech stack"
+        src="https://raw.githubusercontent.com/naufalkmd/lego-techstack/main/output/lego-techstack.png"
+        width="680"
+      />
+    </td>
+    <td align="center" valign="top">
+      <a href="https://raw.githubusercontent.com/naufalkmd/lego-techstack/main/output/lego-techstack-disassemble.gif">
+        <img
+          alt="LEGO tech stack animation"
+          src="https://raw.githubusercontent.com/naufalkmd/lego-techstack/main/output/lego-techstack-disassemble.gif"
+          width="180"
+        />
+      </a>
+      <br/>
+      <sub><a href="https://raw.githubusercontent.com/naufalkmd/lego-techstack/main/output/lego-techstack-disassemble.gif">View animation</a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -93,4 +102,5 @@ Bachelor of Computer Science & Engineering (CSE)
 ---
 
 ⭐ **Star this repo if you like my profile!**
+
 
