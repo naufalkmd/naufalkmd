@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi there! I am 🛠️
+#  Hi there! I am 💫
 
 <img src="https://raw.githubusercontent.com/naufalkmd/calender-svgpainter/main/Assets/github-painter-banner.gif" alt="GitHub Painter banner" width="100%"/>
 
