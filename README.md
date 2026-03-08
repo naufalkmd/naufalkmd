@@ -40,7 +40,7 @@
 <p align="center">
   <sub>
     <a href="https://raw.githubusercontent.com/naufalkmd/lego-techstack/main/output/lego-techstack.png">
-      View tech stack
+      View Static
     </a>
   </sub>
 </p>
