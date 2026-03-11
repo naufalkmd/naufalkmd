@@ -57,21 +57,20 @@
 
 ## 🚀 Featured Projects
 
-| Project                       | Description                                                                                                       | Tech Stack                                                        | Status        |
-| ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------- |
-| 🔐 Lockerspace                | Social media dating app for Malaysian-Korean student society                                                      | Tailwind, JavaScript, Supabase                                    | 🏗️ Building |
-| 🔀 Anyfile Converter          | CLI tool that converts documents and bridges AI assistants' binary limits                                         | Python, PowerShell                                                | ✅ Complete   |
-| 🎹 Chromesthesia Chord Engine | ML system that transforms musical chords into generative visuals                                                  | Python, Librosa, ML                                               | ✅ Complete   |
-| 💊 PharmaGPT                  | Domain-specialized LLM assistant for pharmaceutical knowledge and safety                                          | Python, HuggingFace, RAG, FastAPI                                 | 🔬 Research   |
-| 📝 Noteerr                    | Minimal developer-focused markdown note system with structured thinking                                           | Python, PowerShell, Homebrew                                     | 🏗️ Building |
-| 🥷 Terminal Ninja             | AI-powered CLI productivity enhancer with intelligent command suggestions                                         | Python, PowerShell, Shell, Chocolatey                             | 🔬 Research   |
-| 🧠 BlendPilot                 | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP                      | Python, Blender API, MCP, Copilot APIs                            | 🏗️ Building |
-| 🧰 TinyToys                   | Modular developer utility suite allowing custom scripts, mini-apps, widgets, and productivity toggles             | Rust, Python, Plugin Runtime                                      | 🧠 Concept    |
-| 📸 Lua .fxlm                  | Darktable Lua-based preset system for cinematic, film-inspired looks importable through `.fxlm` files           | Lua, LUTs, C, C++, Python                                         | 🏗️ Building |
-| 📱 UI First                   | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first workflow in VS Code | Tailwind, API, Penpot                                             | 🏗️ Building |
-| 🐝 HiveCube EX-01             | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts                     | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research   |
-| 💾 Ucart            | A gameboy-like cartridge-based expansion project for uConsole focused on reducing the friction of using different modules.                    | KiCad, CAD, Wireshark, Gnuplot, Ngspice | 🔬 Research   |
-
+| Project | Description | Tech Stack | Status |
+|-------|-------------|-----------|-------|
+| 🐝 HiveCube EX-01 | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research |
+| 🧠 BlendPilot | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building |
+| 🧰 TinyToys | Modular developer utility suite allowing custom scripts, mini-apps, widgets, and productivity toggles | Rust, Python, Plugin Runtime | 🧠 Concept |
+| 📱 UI First | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first workflow in VS Code | Tailwind, API, Penpot | 🏗️ Building |
+| 💊 PharmaGPT | Domain-specialized LLM assistant for pharmaceutical knowledge and safety | Python, HuggingFace, RAG, FastAPI | 🔬 Research |
+| 🎹 Chromesthesia Chord Engine | ML system that transforms musical chords into generative visuals | Python, Librosa, Machine Learning | ✅ Complete |
+| 💾 Ucart | GameBoy-like cartridge-based expansion system for uConsole designed to simplify module switching | KiCad, CAD, Wireshark, Gnuplot, Ngspice | 🔬 Research |
+| 📝 Noteerr | Minimal developer-focused markdown note system with structured thinking | Python, PowerShell, Homebrew | 🏗️ Building |
+| 🥷 Terminal Ninja | AI-powered CLI productivity enhancer with intelligent command suggestions | Python, PowerShell, Shell, Chocolatey | 🔬 Research |
+| 🔀 Anyfile Converter | CLI tool that converts documents and bridges AI assistants' binary limits | Python, PowerShell | ✅ Complete |
+| 📸 Lua .fxlm | Darktable Lua-based preset system for cinematic, film-inspired looks importable through `.fxlm` files | Lua, LUTs, C, C++, Python | 🏗️ Building |
+| 🔐 Lockerspace | Social media dating app for Malaysian-Korean student society | Tailwind, JavaScript, Supabase | 🏗️ Building |
 ---
 
 ## 🎓 Certifications & Education
