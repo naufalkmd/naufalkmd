@@ -67,7 +67,7 @@
 | 🎹 Chromesthesia Chord Engine | ML system that transforms musical chords into generative visuals | Python, Librosa, Machine Learning | ✅ Complete |
 | 💾 Ucart | GameBoy-like cartridge-based expansion system for uConsole designed to simplify module switching | KiCad, CAD, Wireshark, Gnuplot, Ngspice | 🔬 Research |
 | 📝 Noteerr | Minimal developer-focused markdown note system with structured thinking | Python, PowerShell, Homebrew | 🏗️ Building |
-| 🥷 Terminal Ninja | AI-powered CLI productivity enhancer with intelligent command suggestions | Python, PowerShell, Shell, Chocolatey | 🔬 Research |
+| 🥷 Terminal Ninja | TerminalNinja is a cross-shell terminal setup that applies a shared Oh My Posh prompt plus shell-native quality-of-life features across PowerShell, bash, zsh, and WSL. | Python, PowerShell, Shell, Chocolatey | 🏗️ Building |
 | 🔀 Anyfile Converter | CLI tool that converts documents and bridges AI assistants' binary limits | Python, PowerShell | ✅ Complete |
 | 📸 Lua .fxlm | Darktable Lua-based preset system for cinematic, film-inspired looks importable through `.fxlm` files | Lua, LUTs, C, C++, Python | 🏗️ Building |
 | 🔐 Lockerspace | Social media dating app for Malaysian-Korean student society | Tailwind, JavaScript, Supabase | 🏗️ Building |
