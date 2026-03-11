@@ -72,7 +72,7 @@
 | 📸 Lua .fxlm                  | Darktable Lua-based preset system for cinematic, film-inspired looks importable through `.fxlm` files           | Lua, LUTs, C, C++, Python                                         | 🏗️ Building |
 | 📱 UI First                   | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first workflow in VS Code | Tailwind, API, Penpot                                             | 🏗️ Building |
 | 🐝 HiveCube EX-01             | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts                     | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research   |
-| 💻 Omnideck            | A modular portable cybersecurity and hardware research platform integrating RF analysis, wireless testing, RFID/NFC research, embedded debugging, and field-capable workflows                    | KiCad, CAD, Wireshark, Gnuplot, Ngspice | 🔬 Research   |
+| 💾 Ucart            | A gameboy-like cartridge-based expansion project for uConsole focused on reducing the friction of using different modules.                    | KiCad, CAD, Wireshark, Gnuplot, Ngspice | 🔬 Research   |
 
 ---
 
