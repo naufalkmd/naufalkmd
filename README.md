@@ -61,11 +61,8 @@
 |-------|-------------|-----------|-------|
 | 🐝 HiveCube EX-01 | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research |
 | 🧠 BlendPilot | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building |
-| 🧰 TinyToys | Modular developer utility suite allowing custom scripts, mini-apps, widgets, and productivity toggles | Rust, Python, Plugin Runtime | 🧠 Concept |
 | 📱 UI First | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first workflow in VS Code | Tailwind, API, Penpot | 🏗️ Building |
-| 💊 PharmaGPT | Domain-specialized LLM assistant for pharmaceutical knowledge and safety | Python, HuggingFace, RAG, FastAPI | 🔬 Research |
 | 🎹 Chromesthesia Chord Engine | ML system that transforms musical chords into generative visuals | Python, Librosa, Machine Learning | ✅ Complete |
-| 💾 Ucart | GameBoy-like cartridge-based expansion system for uConsole designed to simplify module switching | KiCad, CAD, Wireshark, Gnuplot, Ngspice | 🔬 Research |
 | 📝 Noteerr | Minimal developer-focused markdown note system with structured thinking | Python, PowerShell, Homebrew | 🏗️ Building |
 | 🥷 Terminal Ninja | TerminalNinja is a cross-shell terminal setup that applies a shared Oh My Posh prompt plus shell-native quality-of-life features across PowerShell, bash, zsh, and WSL. | Python, PowerShell, Shell, Chocolatey | 🏗️ Building |
 | 🔀 Anyfile Converter | CLI tool that converts documents and bridges AI assistants' binary limits | Python, PowerShell | ✅ Complete |
