@@ -8,8 +8,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naufalkmd&label=Profile%20views&color=0e75b6&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/naufalkmd?label=Followers&style=for-the-badge&color=blue&labelColor=black)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/naufal-kamaruddin-67b1171b0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadnaufalkamaruddin@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 </div>
 
