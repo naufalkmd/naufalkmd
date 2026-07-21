@@ -59,13 +59,11 @@
 
 | Project | Description | Tech Stack | Status |
 |-------|-------------|-----------|-------|
+| 📄 FAnDa | DOLA-family decoding research focused on improving LLM truthfulness through simpler and more stable inference-time decoding | Python, LLMs, DoLA, Decoding | ✅ Complete |
 | 🐝 HiveCube EX-01 | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research |
 | 🧠 BlendPilot | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building |
 | 📱 UI First | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first workflow in VS Code | Tailwind, API, Penpot | 🏗️ Building |
 | 🎹 Chromesthesia Chord Engine | ML system that transforms musical chords into generative visuals | Python, Librosa, Machine Learning | ✅ Complete |
-| 📝 Noteerr | Minimal developer-focused markdown note system with structured thinking | Python, PowerShell, Homebrew | 🏗️ Building |
-| 🥷 Terminal Ninja | TerminalNinja is a cross-shell terminal setup that applies a shared Oh My Posh prompt plus shell-native quality-of-life features across PowerShell, bash, zsh, and WSL. | Python, PowerShell, Shell, Chocolatey | 🏗️ Building |
-| 🔀 Anyfile Converter | CLI tool that converts documents and bridges AI assistants' binary limits | Python, PowerShell | ✅ Complete |
 | 📸 Lua .fxlm | Darktable Lua-based preset system for cinematic, film-inspired looks importable through `.fxlm` files | Lua, LUTs, C, C++, Python | 🏗️ Building |
 | 🔐 Lockerspace | Social media dating app for Malaysian-Korean student society | Tailwind, JavaScript, Supabase | 🏗️ Building |
 ---
