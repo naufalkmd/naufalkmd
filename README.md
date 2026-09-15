@@ -60,6 +60,8 @@
 | Project | Description | Tech Stack | Status |
 |-------|-------------|-----------|-------|
 | 📄 FAnDa | DOLA-family decoding research focused on improving LLM truthfulness through simpler and more stable inference-time decoding | Python, LLMs, DoLA, Decoding | ✅ Complete |
+| ❄️ ThatFridge | AI-assisted fridge and kitchen manager and tracker via IOS App Store | Laravel, Digital Ocean, Cloudflare, React Native | ✅ Apple Review |
+| ⚙️ Dexterous-Manipulation-RL | design of a reinforcement learning agent to perform dexterous object manipulation using a Shadow Hand robot to immitate Human-Object Contact (HO-Cap) motion capture sequences. | Reinforcement Learning, Isaac Sims | 🏗️ Building |      
 | 🐝 HiveCube EX-01 | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research |
 | 🧠 BlendPilot | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building |
 | 📱 UI First | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first workflow in VS Code | Tailwind, API, Penpot | 🏗️ Building |
