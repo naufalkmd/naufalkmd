@@ -11,6 +11,8 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naufalkmd)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/naufalkmd)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/naufalkmd)
 
 </div>
 
@@ -56,19 +58,31 @@
 
 ---
 
-## 🏅 Kaggle Progress
+## 🌐 Other Platforms
 
 <!-- KAGGLE-STATS:START -->
 <p align="center">
-  <a href="https://www.kaggle.com/naufalkmd"><img alt="Kaggle tier" src="https://img.shields.io/badge/Kaggle%20Tier-Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=black"/></a>
-</p>
-<p align="center">
+  <a href="https://www.kaggle.com/naufalkmd"><img alt="Kaggle tier" src="https://img.shields.io/badge/Kaggle-Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=black"/></a>
   <a href="https://www.kaggle.com/naufalkmd/competitions"><img alt="Competitions" src="https://img.shields.io/badge/Competitions-0%20pts-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
   <a href="https://www.kaggle.com/naufalkmd/code"><img alt="Code" src="https://img.shields.io/badge/Code-0%20pts-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
   <a href="https://www.kaggle.com/naufalkmd/datasets"><img alt="Datasets" src="https://img.shields.io/badge/Datasets-0%20pts-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
-  <a href="https://www.kaggle.com/naufalkmd/models"><img alt="Models" src="https://img.shields.io/badge/Models-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
 </p>
 <!-- KAGGLE-STATS:END -->
+
+<!-- HUGGINGFACE-STATS:START -->
+<p align="center">
+  <a href="https://huggingface.co/naufalkmd"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-naufalkmd-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=black"/></a>
+</p>
+<!-- HUGGINGFACE-STATS:END -->
+
+<!-- DEVPOST-STATS:START -->
+<p align="center">
+  <a href="https://devpost.com/naufalkmd"><img alt="Devpost" src="https://img.shields.io/badge/Devpost-2%20projects-003E54?style=for-the-badge&logo=devpost&logoColor=white&labelColor=black"/></a>
+  <a href="https://devpost.com/naufalkmd/challenges"><img alt="Hackathons" src="https://img.shields.io/badge/Hackathons-2-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=black"/></a>
+  <a href="https://devpost.com/naufalkmd/achievements"><img alt="Achievements" src="https://img.shields.io/badge/Achievements-5-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=black"/></a>
+  <a href="https://devpost.com/naufalkmd/followers"><img alt="Followers" src="https://img.shields.io/badge/Followers-2-003E54?style=flat-square&logo=devpost&logoColor=white&labelColor=black"/></a>
+</p>
+<!-- DEVPOST-STATS:END -->
 
 ---
 

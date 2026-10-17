@@ -32,10 +32,10 @@ jobs:
           count=$(gh api "users/${{ github.repository_owner }}" --jq .followers)
           sed -i -E "s|badge/Followers-[0-9]+-|badge/Followers-${count}-|" README.md
 
-      - name: Update Kaggle stats
+      - name: Update Kaggle, Hugging Face and Devpost stats
         run: |
           pip install --quiet kagglesdk
-          python scripts/kaggle_stats.py naufalkmd README.md
+          python scripts/platform_stats.py ${{ github.repository_owner }} README.md
 
       - name: Commit & Push
         run: |
