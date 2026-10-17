@@ -10,6 +10,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/naufalkmd?label=Followers&style=for-the-badge&color=blue&labelColor=black)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naufalkmd)
 
 </div>
 
@@ -51,6 +52,20 @@
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%"/>
+</p>
+
+---
+
+## 🏅 Kaggle Progress
+
+<p align="center">
+  <a href="https://www.kaggle.com/naufalkmd"><img alt="Kaggle profile" src="https://img.shields.io/badge/Kaggle-naufalkmd-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=black"/></a>
+</p>
+<p align="center">
+  <a href="https://www.kaggle.com/naufalkmd/competitions"><img alt="Competitions" src="https://img.shields.io/badge/Competitions-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/naufalkmd/code"><img alt="Code" src="https://img.shields.io/badge/Code-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/naufalkmd/datasets"><img alt="Datasets" src="https://img.shields.io/badge/Datasets-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/naufalkmd/models"><img alt="Models" src="https://img.shields.io/badge/Models-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
