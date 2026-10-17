@@ -58,15 +58,17 @@
 
 ## 🏅 Kaggle Progress
 
+<!-- KAGGLE-STATS:START -->
 <p align="center">
-  <a href="https://www.kaggle.com/naufalkmd"><img alt="Kaggle profile" src="https://img.shields.io/badge/Kaggle-naufalkmd-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=black"/></a>
+  <a href="https://www.kaggle.com/naufalkmd"><img alt="Kaggle tier" src="https://img.shields.io/badge/Kaggle%20Tier-Contributor-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=black"/></a>
 </p>
 <p align="center">
-  <a href="https://www.kaggle.com/naufalkmd/competitions"><img alt="Competitions" src="https://img.shields.io/badge/Competitions-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/naufalkmd/code"><img alt="Code" src="https://img.shields.io/badge/Code-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/naufalkmd/datasets"><img alt="Datasets" src="https://img.shields.io/badge/Datasets-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/naufalkmd/models"><img alt="Models" src="https://img.shields.io/badge/Models-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/naufalkmd/competitions"><img alt="Competitions" src="https://img.shields.io/badge/Competitions-0%20pts-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
+  <a href="https://www.kaggle.com/naufalkmd/code"><img alt="Code" src="https://img.shields.io/badge/Code-0%20pts-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
+  <a href="https://www.kaggle.com/naufalkmd/datasets"><img alt="Datasets" src="https://img.shields.io/badge/Datasets-0%20pts-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
+  <a href="https://www.kaggle.com/naufalkmd/models"><img alt="Models" src="https://img.shields.io/badge/Models-View-20BEFF?style=flat-square&logo=kaggle&logoColor=white&labelColor=black"/></a>
 </p>
+<!-- KAGGLE-STATS:END -->
 
 ---
 
