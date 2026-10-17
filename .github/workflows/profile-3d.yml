@@ -25,6 +25,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Update followers badge
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          count=$(gh api "users/${{ github.repository_owner }}" --jq .followers)
+          sed -i -E "s|badge/Followers-[0-9]+-|badge/Followers-${count}-|" README.md
+
       - name: Commit & Push
         run: |
           git config user.name github-actions
