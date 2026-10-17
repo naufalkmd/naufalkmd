@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="168" viewBox="0 0 280 168" role="img" aria-label="Devpost: 2 projects">
+<title>Devpost: 2 projects</title>
+<style>
+  .card { fill: #ffffff; stroke: #d0d7de; }
+  .name { font: 600 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .headline { font: 700 24px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #00A0C6; }
+  .caption { font: 400 12px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #59636e; }
+  .value { font: 700 17px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .unit { font: 500 10px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #59636e; }
+  .label { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #59636e; }
+  .rule { stroke: #d8dee4; }
+  .logo { fill: #003E54; }
+  @media (prefers-color-scheme: dark) {
+    .card { fill: #0d1117; stroke: #30363d; }
+    .name, .value { fill: #e6edf3; }
+    .caption, .unit, .label { fill: #9198a1; }
+    .rule { stroke: #21262d; }
+    .logo { fill: #7FD3EA; }
+  }
+</style>
+<clipPath id="shape"><rect x="0.5" y="0.5" width="279" height="167" rx="10"/></clipPath>
+<rect class="card" x="0.5" y="0.5" width="279" height="167" rx="10"/>
+<rect x="0" y="0" width="280" height="4" fill="#00A0C6" clip-path="url(#shape)"/>
+<svg x="20" y="18" width="20" height="20" viewBox="0 0 24 24"><path class="logo" d="M6.002 1.61L0 12.004 6.002 22.39h11.996L24 12.004 17.998 1.61zm1.593 4.084h3.947c3.605 0 6.276 1.695 6.276 6.31 0 4.436-3.21 6.302-6.456 6.302H7.595zm2.517 2.449v7.714h1.241c2.646 0 3.862-1.55 3.862-3.861.009-2.569-1.096-3.853-3.767-3.853Z"/></svg>
+<text x="48" y="33" class="name">Devpost</text>
+<text x="20" y="72" class="headline">2 projects</text>
+<text x="20" y="91" class="caption">2 followers · 0 likes</text>
+<line class="rule" x1="20" y1="105" x2="260" y2="105"/>
+<text x="20" y="128" class="value">2</text><text x="20" y="146" class="label">Hackathons</text><text x="104" y="128" class="value">5</text><text x="104" y="146" class="label">Achievements</text><text x="188" y="128" class="value">2</text><text x="188" y="146" class="label">Following</text>
+</svg>

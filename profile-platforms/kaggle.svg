@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="168" viewBox="0 0 280 168" role="img" aria-label="Kaggle: Contributor">
+<title>Kaggle: Contributor</title>
+<style>
+  .card { fill: #ffffff; stroke: #d0d7de; }
+  .name { font: 600 14px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .headline { font: 700 24px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #20BEFF; }
+  .caption { font: 400 12px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #59636e; }
+  .value { font: 700 17px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #1f2328; }
+  .unit { font: 500 10px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #59636e; }
+  .label { font: 400 11px -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #59636e; }
+  .rule { stroke: #d8dee4; }
+  .logo { fill: #20BEFF; }
+  @media (prefers-color-scheme: dark) {
+    .card { fill: #0d1117; stroke: #30363d; }
+    .name, .value { fill: #e6edf3; }
+    .caption, .unit, .label { fill: #9198a1; }
+    .rule { stroke: #21262d; }
+    .logo { fill: #20BEFF; }
+  }
+</style>
+<clipPath id="shape"><rect x="0.5" y="0.5" width="279" height="167" rx="10"/></clipPath>
+<rect class="card" x="0.5" y="0.5" width="279" height="167" rx="10"/>
+<rect x="0" y="0" width="280" height="4" fill="#20BEFF" clip-path="url(#shape)"/>
+<text x="23" y="36" class="logo" style="font: 800 26px Helvetica, Arial, sans-serif">k</text>
+<text x="48" y="33" class="name">Kaggle</text>
+<text x="20" y="72" class="headline">Contributor</text>
+<text x="20" y="91" class="caption">performance tier</text>
+<line class="rule" x1="20" y1="105" x2="260" y2="105"/>
+<text x="20" y="128" class="value">0<tspan class="unit" dx="3">pts</tspan></text><text x="20" y="146" class="label">Competitions</text><text x="104" y="128" class="value">0<tspan class="unit" dx="3">pts</tspan></text><text x="104" y="146" class="label">Code</text><text x="188" y="128" class="value">0<tspan class="unit" dx="3">pts</tspan></text><text x="188" y="146" class="label">Datasets</text>
+</svg>

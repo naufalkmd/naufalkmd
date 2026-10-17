@@ -35,7 +35,7 @@ jobs:
       - name: Update Kaggle, Hugging Face and Devpost stats
         run: |
           pip install --quiet kagglesdk
-          python scripts/platform_stats.py ${{ github.repository_owner }} README.md
+          python scripts/platform_stats.py ${{ github.repository_owner }} profile-platforms
 
       - name: Commit & Push
         run: |
