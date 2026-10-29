@@ -25,8 +25,8 @@
 > **High Curiosity and Rapid Idea Thinker** | **Technical Art Enthusiast** | **Research-Driven Builder**
 
 - 🎓 Pursuing a **Bachelor’s degree in Computer Science & Engineering (CSE) at Korea University**
-- 🧠 Driven to apply **open-source** principles wherever possible, fostering **transparency** and **collaboration**, while pushing technology toward **continuous**, **sustainable**, and **limitless** improvement
-- 🎨 Exploring **Technical Art**, **Automation**, **Fine-tuned LLMs**, **Cloud Computing**, **3D Web**, and **Creative Frontend**
+- 🧠 Driven to apply **open-source** principles, fostering **transparency** and **collaboration**, while pushing technology toward **continuous**, **sustainable**, and **limitless** improvement
+- 🎨 Exploring **Technical Art**, **Automation**, **Computer Vision**, **Cloud Computing**, **Computer Grapohics**, and **Creative Development**
 
 <br clear="right"/>
 
@@ -72,12 +72,11 @@
 
 | Project | Description | Tech Stack | Status |
 |-------|-------------|-----------|-------|
-| 📄 FAnDa | DOLA-family decoding research focused on improving LLM truthfulness through simpler and more stable inference-time decoding | Python, LLMs, DoLA, Decoding | ✅ Complete |
+| 📄 FAnDa | DOLA-family decoding algorithms improving LLM truthfulness and hallucinations | Python, LLMs, DoLA, Decoding | ✅ Complete |
 | ❄️ ThatFridge | AI-assisted fridge and kitchen manager and tracker via IOS App Store https://thatfridge.com | Laravel, Digital Ocean, Cloudflare, React Native | ✅ Completed & Maintained |
-| ⚙️ Dexterous-Manipulation-RL | design of a reinforcement learning agent to perform dexterous object manipulation using a Shadow Hand robot to immitate Human-Object Contact (HO-Cap) motion capture sequences. | Reinforcement Learning, Isaac Sims | 🏗️ Building |      
-| 🐝 HiveCube EX-01 | LLM-directed swarm cube robots that self-assemble into voxel-based 3D structures from prompts | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim, LLM Planning | 🔬 Research |
+| ⚙️ Dexterous-Manipulation-RL | Dexterous object manipulation transferring a Shadow Hand robot to non-human hand manipulation | Reinforcement Learning, Isaac Sims, Self-Supervised Learning | 🏗️ Building |      
+| 🐝 HiveCube EX-01 | Swarm cube robots that self-assemble into voxel-based 3D structures end-to-end embodiment | Robotics, ESP32, Swarm Algorithms, NVIDIA Isaac Sim | 🔬 Research |
 | 🧠 BlendPilot | AI co-creator plugin for Blender that assists modeling, segmentation, and automation via MCP | Python, Blender API, MCP, Copilot APIs | 🏗️ Building |
-| 📱 UI First | Transforms natural language UI prompts into production-ready Tailwind apps via a visual-first workflow in VS Code | Tailwind, API, Penpot | 🏗️ Building |
 | 🎹 Chromesthesia Chord Engine | ML system that transforms musical chords into generative visuals | Python, Librosa, Machine Learning | ✅ Complete |
 | 📸 Lua .fxlm | Darktable Lua-based preset system for cinematic, film-inspired looks importable through `.fxlm` files | Lua, LUTs, C, C++, Python | 🏗️ Building |
 | 🔐 Lockerspace | Social media dating app for Malaysian-Korean student society | Tailwind, JavaScript, Supabase | 🏗️ Building |
@@ -92,11 +91,10 @@ Bachelor of Computer Science & Engineering (CSE)
 
 ## 🧠 Research Interests
 
-- Generative AI for creative tools
-- Technical art pipelines and automation
-- Human-AI co-creation systems
-- Open-source AI infrastructure
-- AI-assisted 3D modeling and workflow design
+- AI Learning Research
+- Embodied Robotics
+- Open-source Infrastructure
+- Computer Vision and VLA
 
 ---
 
