@@ -22,7 +22,7 @@
 
 ## 🎯 About Me
 
-> **High Curiosity and Rapid Idea Thinker** | **Technical Art Enthusiast** | **Research-Driven Builder**
+> **High Curiosity** | **Rapid Idea Thinker** | **Research-Driven Builder**
 
 - 🎓 Pursuing a **Bachelor’s degree in Computer Science & Engineering (CSE) at Korea University**
 - 🧠 Driven to apply **open-source** principles, fostering **transparency** and **collaboration**, while pushing technology toward **continuous**, **sustainable**, and **limitless** improvement
