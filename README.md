@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Korea+University+%7C+Undergraduate;Research+%26+Innovation+Driven;Transforming+Ideas+into+Solutions)](https://github.com/naufalkmd)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naufalkmd&label=Profile%20views&color=0e75b6&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/badge/Followers-115-blue?style=for-the-badge&labelColor=black)](https://github.com/naufalkmd?tab=followers)
+[![GitHub followers](https://img.shields.io/badge/Followers-113-blue?style=for-the-badge&labelColor=black)](https://github.com/naufalkmd?tab=followers)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/naufalkmd)
